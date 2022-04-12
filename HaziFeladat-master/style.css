@@ -1,0 +1,28 @@
+.header {
+    margin-bottom: 150px;
+    background-color: rgb(29, 65, 29);
+}
+
+body {
+    background-color: rgb(74, 136, 100);
+}
+
+.form {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.kereses {
+    text-align: right;
+    padding-right: 65px;
+    margin-left: 745px;
+}
+
+.footer{
+    margin-bottom: 150px;
+    background-color: rgb(19, 32, 19);
+}
+/*html{
+    background-color: green;
+}
+*/
